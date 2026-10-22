@@ -1,0 +1,10 @@
+
+google-adk==1.2.1
+fastapi==0.115.5
+uvicorn[standard]==0.34.0
+supabase==2.22.3
+python-dotenv==1.0.1
+httpx==0.28.1
+python-jose[cryptography]==3.3.0
+pydantic==2.11.7
+groq==0.37.1
